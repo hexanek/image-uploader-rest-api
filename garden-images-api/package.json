@@ -1,0 +1,19 @@
+{
+  "name": "garden-images-api",
+  "version": "1.0.0",
+  "description": "Image-uploader-rest-api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hexanek/image-uploader-rest-api.git"
+  },
+  "author": "A.L.",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hexanek/image-uploader-rest-api/issues"
+  },
+  "homepage": "https://github.com/hexanek/image-uploader-rest-api#readme"
+}
