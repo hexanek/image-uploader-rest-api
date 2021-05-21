@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/hexanek/image-uploader-rest-api/issues"
   },
-  "homepage": "https://github.com/hexanek/image-uploader-rest-api#readme"
+  "homepage": "https://github.com/hexanek/image-uploader-rest-api#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
